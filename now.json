@@ -4,9 +4,9 @@
     "env": {
       "DBHOST": "wmdd.cau663mueoyo.us-east-2.rds.amazonaws.com",
       "DBPORT": "3306",
-      "DBUSER": "hgill69",
-      "DBPASSWORD": "HarmanGill-2k18",
-      "DBNAME": "serverside"
+      "DBUSER": "",
+      "DBPASSWORD": "",
+      "DBNAME": ""
     },
     "builds": [{ "src": "api/*/index.js", "use": "@now/node" }],
     "routes": [
